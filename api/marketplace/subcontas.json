@@ -1,0 +1,35 @@
+ 
+
+{
+   "account_id":"6061917BB7CB4F349381DF208E5C0A09",
+       "name":"SubConta Teste 1",
+           "live_api_token":"74526047b01f3733d022506bcff9eaf0",
+               "test_api_token":"493c799fd57600ad9bedb35c608ff116",
+                   "user_token":"692965a27f4aafbc0b2a143873d0d01b",
+                       "action":"create_account",
+                           "comission_percent":"10"}
+{
+   "account_id":"355725205E5D4CCC96EB670F6A0D4F53",
+       "name":"SubConta Teste NOVA 1",
+           "live_api_token":"d1f7f72b8d33ea116ff4710531c34e82",
+               "test_api_token":"799bf20f99d908a981eb0ac71260c6e4",
+                   "user_token":"7ec8a77a9ad2724187afccfb9334bd1c",
+                       "action":"create_account",
+                           "comission_percent":"25"}
+Array ( 
+    [0] => Iugu_Marketplace Object ( 
+        [_attributes:protected] => 
+            Array ( 
+                [id] => DD5FCB16B7264A49A6ACA31C4290E148 
+                [name] => SubConta Teste 4 
+                [verified] => 1 
+            ) 
+        [_unsavedAttributes:protected] => Array ( ) 
+    ) 
+    [1] => Iugu_Marketplace Object ( 
+    [_attributes:protected] => Array ( 
+    [id] => 5649BFC650D14F74BE12CE65EE0F3374 
+    [name] => SubConta Teste 3 
+    [verified] => ) 
+    [_unsavedAttributes:protected] => Array ( ) ) 
+) 
