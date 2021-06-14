@@ -1,7 +1,7 @@
 <?php
 
 /* 
- * Api de Pagamentos Fpay | Iugu
+ * Api de Pagamentos Fpay | Iugu 
  * Autor: Luciano Santos.
  * E-mail: lucferrsan@gmail.com.
  * Arquivo: main.php
